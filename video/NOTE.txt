@@ -1,0 +1,4 @@
+To reduce filesize, only 10 frames are included here
+All the frame-data is in 📃frames.json anyways so it doesn't matter much
+
+you may delete this file
