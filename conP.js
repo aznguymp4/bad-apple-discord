@@ -16,4 +16,4 @@ const frames = f.map(ff => {
 setInterval(()=>{
     console.log(frames[i])
     i++
-},1/fps)
+},1000/fps)
